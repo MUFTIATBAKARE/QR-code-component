@@ -24,8 +24,8 @@ body{
     padding: 16px 16px 40px;
 }
 img{
-    width: 288px;
-    height: 288px;
+    max-width: 288px;
+    height: auto;
     border-radius: 16px;
 }
 .text-div{
